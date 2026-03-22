@@ -1,6 +1,6 @@
 # Welcome to ANYEPOCH
 
-<img src="./anepoch.png" alt="ANYEPOCH Logo" width="35" /> [ANYEPOCH](https://www.anyepoch.com) is a pioneering enterprise dedicated to the exploration and application of cutting-edge technology. We focus on Artificial Intelligence, Data Science, and next-generation Internet technologies, aiming to solve complex problems and drive industrial transformation through technological innovation.
+<img src="./anepoch.png" alt="ANYEPOCH Logo" width="36" /> [ANYEPOCH](https://www.anyepoch.com) is a pioneering enterprise dedicated to the exploration and application of cutting-edge technology. We focus on Artificial Intelligence, Data Science, and next-generation Internet technologies, aiming to solve complex problems and drive industrial transformation through technological innovation.
 **"Empowering Intelligence Across Every Epoch."**
 <div align="center">
 🚀 开启未来
