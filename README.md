@@ -1,4 +1,4 @@
-# Welcome to AnyEpoch AI
+# **Welcome to AnyEpoch AI**
 
 <a href="https://www.anyepoch.com/"><img src="anyepoch.png" alt="icon" style="height: 26px; vertical-align: center;">  [ANYEPOCH](https://www.anyepoch.com) 
 
